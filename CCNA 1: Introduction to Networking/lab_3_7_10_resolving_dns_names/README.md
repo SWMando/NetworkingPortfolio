@@ -1,6 +1,6 @@
 # Lab 3.7.10: Resolving DNS names
 
-![[Pasted image 20250617151150.png]]
+![Topology](Pasted%20image%2020250617151150.png)
 
 ### Devices used for the following lab:
 * 1 Cisco ISR 4331 router (With Internet access)
@@ -51,8 +51,8 @@ exit
 ```
 
 Here is how the topology looks in Packet Tracer:
-![[Pasted image 20250617152123.png]]
+![Topology](Pasted%20image%2020250617152123.png)
 
 And here are the configurations of the Web Server:
-![[Pasted image 20250617152218.png]]
-![[Pasted image 20250617152258.png]]
+![Topology](Pasted%20image%2020250617152218.png)
+![Topology](Pasted%20image%2020250617152258.png)

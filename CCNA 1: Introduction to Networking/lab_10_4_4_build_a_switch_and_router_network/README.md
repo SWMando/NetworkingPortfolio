@@ -1,6 +1,6 @@
 # Lab 10.4.4: Build a Switch and Router Network
 
-![[Pasted image 20250617152531.png]]
+![Topology](Pasted%20image%2020250617152531.png)
 
 ### Devices used for the following lab:
 * 1 Cisco ISR 4331 router (With Internet access)

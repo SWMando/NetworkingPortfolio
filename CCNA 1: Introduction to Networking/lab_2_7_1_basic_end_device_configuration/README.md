@@ -1,6 +1,6 @@
 # Lab 2.7.1: Basic End Device Configuration
 
-![[Pasted image 20250612231056.png]]
+![Topology](Pasted%20image%2020250612231056.png)
 
 ### Devices used for the following lab:
 * 2 PCs
