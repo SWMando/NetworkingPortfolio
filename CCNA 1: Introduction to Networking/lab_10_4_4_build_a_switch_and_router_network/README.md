@@ -23,6 +23,7 @@
 |        |            | 2001:db8:acad:1::3 | /64           | fe80::1         |
 | PC2    | NIC        | 192.168.0.3        | 255.255.255.0 | 192.168.0.1     |
 |        |            | 2001:db8:acad::3   | /64           | fe80::1         |
+
 The goal of this lab is to make basic configuration of all devices and verify the connectivity via the ping tool.
 
 #### R1 Commands

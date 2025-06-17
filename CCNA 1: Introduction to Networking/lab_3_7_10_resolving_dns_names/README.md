@@ -15,6 +15,7 @@
 | S1     | VLAN1     | 192.168.1.2 | 255.255.255.0 |
 | PC1    | NIC       | DHCP        |               |
 | PC2    | NIC       | DHCP        |               |
+
 The goal of this lab is to practice nslookup tool and try to resolve the following domain names:
 1. www.google.com
 2. yahoo.com
