@@ -8,13 +8,13 @@
 * 2 PCs
 
 ### Addressing Table
-| Device | Interface | IP Address  | Subnet Mask   |
-| ------ | --------- | ----------- | ------------- |
-| R1     | G0/0/0    | 192.168.1.1 | 255.255.255.0 |
-|        | G0/0/1    |             |               |
-| S1     | VLAN1     | 192.168.1.2 | 255.255.255.0 |
-| PC1    | NIC       | DHCP        |               |
-| PC2    | NIC       | DHCP        |               |
+| Device | Interface | IP Address      | Subnet Mask     |
+| ------ | --------- | --------------- | --------------- |
+| R1     | G0/0/0    | 192.168.1.1     | 255.255.255.0   |
+|        | G0/0/1    | 209.165.200.225 | 255.255.255.252 |
+| S1     | VLAN1     | 192.168.1.2     | 255.255.255.0   |
+| PC1    | NIC       | DHCP            |                 |
+| PC2    | NIC       | DHCP            |                 |
 
 The goal of this lab is to practice nslookup tool and try to resolve the following domain names:
 1. www.google.com
