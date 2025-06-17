@@ -2,7 +2,7 @@
 
 In this portfolio you can see which labs I have done so far, and it can help you understand my potential skill set as well knowledge regarding the CCNA and partially CCNP ENCOR, both of which were covered in my university.
 
-The repo will include 4 folders:
+The repo will include 5 folders:
 - CCNA 1
 - CCNA 2
 - CCNA 3
