@@ -1,6 +1,6 @@
 # Lab 2.3.8: Setting up clock
 
-![[Pasted image 20250612230638.png]]
+[[Pasted image 20250612230638.png]]
 ### Devices used for the following lab:
 * 1 PC
 * 1 Cisco Catalyst 2960 Switch
