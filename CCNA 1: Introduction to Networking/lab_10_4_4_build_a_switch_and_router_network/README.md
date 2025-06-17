@@ -4,7 +4,7 @@
 
 ### Devices used for the following lab:
 * 1 Cisco ISR 4331 router (With Internet access)
-* 1 Cisco Catalyst 2960 switche
+* 1 Cisco Catalyst 2960 switch
 * 2 PCs
 
 ### Addressing Table
