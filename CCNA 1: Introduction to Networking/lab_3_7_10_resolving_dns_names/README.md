@@ -52,6 +52,7 @@ exit
 ```
 
 Here is how the topology looks in Packet Tracer:
+
 ![Topology](Pasted%20image%2020250617152123.png)
 
 And here are the configurations of the Web Server:
