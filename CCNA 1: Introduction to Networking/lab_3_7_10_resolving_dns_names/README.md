@@ -3,8 +3,8 @@
 ![Topology](Pasted%20image%2020250617151150.png)
 
 ### Devices used for the following lab:
-* 1 Cisco ISR 4331 router (With Internet access)
-* 1 Cisco Catalyst 2960 switche
+* 1 Cisco ISR 4331 Router (With Internet access)
+* 1 Cisco Catalyst 2960 Switch
 * 2 PCs
 
 ### Addressing Table

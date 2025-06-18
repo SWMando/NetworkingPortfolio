@@ -2,8 +2,8 @@
 
 ![Topology](Pasted%20image%2020250618004838.png)
 ### Devices used for the following lab:
-* 2 Cisco ISR 4331 routers (With Internet access)
-* 2 Cisco Catalyst 2960 switches
+* 2 Cisco ISR 4331 Routers (With Internet access)
+* 2 Cisco Catalyst 2960 Switches
 
 ### Needed hosts:
 - BR1 LAN: 40 hosts

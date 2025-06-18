@@ -3,8 +3,8 @@
 ![Topology](Pasted%20image%2020250612231056.png)
 
 ### Devices used for the following lab:
-* 2 PCs
 * 1 Cisco Catalyst 2960 Switch
+* 2 PCs
 
 ### Addressing Table
 

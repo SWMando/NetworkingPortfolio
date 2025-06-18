@@ -2,8 +2,8 @@
 
 ![Topology](Pasted%20image%2020250612230638.png)
 ### Devices used for the following lab:
-* 1 PC
 * 1 Cisco Catalyst 2960 Switch
+* 1 PC
 
 The goal is to connect the devices, and to configure a clock on the switch.
 
