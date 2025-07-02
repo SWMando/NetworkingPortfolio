@@ -3,7 +3,7 @@
 In this portfolio you can see which labs I have done so far, and it can help you understand my potential skill set as well knowledge regarding the CCNA and partially CCNP ENCOR, both of which were covered in my university.
 
 The repo will include 5 folders:
-- [CCNA 1](CCNA%201:%20Introduction%20to%20Networking/README.md)
+- [CCNA 1](CCNA 1: Introduction to Networking/README.md)
 - [CCNA 2](CCNA%202:%20Switching,%20Routing,%20and%20Wireless%20Essentials/README.md)
 - CCNA 3
 - CCNP ENCOR
