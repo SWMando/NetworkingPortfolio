@@ -1,6 +1,6 @@
 # CCNA 1 Table of Contents
 
-![Cisco](cisco_logo.png)
+![Cisco](media/cisco_logo.png)
 
 1. [Lab 2.3.8: Setting Up Clock](lab_2_3_8_setting_up_clock/lab_2_3_8_setting_up_clock_pt.pkt)
 2. [Lab 2.7.1: Basic End Device Configuration](lab_2_7_1_basic_end_device_configuration/lab_2_7_1_basic_end_device_configuration_pt.pkt)
