@@ -4,7 +4,7 @@ In this portfolio you can see which labs I have done so far, and it can help you
 
 The repo will include 5 folders:
 - [CCNA 1](CCNA%201%3A%20Introduction%20to%20Networking/README.md)
-- [CCNA 2](CCNA%202:%20Switching,%20Routing,%20and%20Wireless%20Essentials/README.md)
+- [CCNA 2](CCNA%202%3A%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials/README.md)
 - CCNA 3
 - CCNP ENCOR
 - Computer Network Security
