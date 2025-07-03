@@ -1,24 +1,5 @@
 # My Networking Portfolio
-<pre><code>                                                                      
-                                                                      
-                                                                      
-                                                                      
-                                                                      
-                    @@@@                      @@@@                    
-                    @@@@                      @@@@                    
-              @@@   @@@@   @@@          @@@   @@@@   @@@              
-              @@@   @@@@   @@@          @@@   @@@@   @@@              
-        @@@   @@@   @@@@   @@@   @@@@   @@@   @@@@   @@@   @@@        
-        @@@   @@@   @@@@   @@@   @@@@   @@@   @@@@   @@@   @@@@       
-        @@@   @@@   @@@@   @@@    @@    @@@   @@@@   @@@   @@@        
-                     @@@                      @@@@                    
-                                                                      
-                                                                      
-              @@@@@@   @@@   @@@@@@    @@@@@@   @@@@@@@@              
-             @@@@      @@@  @@@@     @@@@@  @  @@@@  @@@@             
-            @@@@       @@@   @@@@@@  @@@@      @@@    @@@@            
-             @@@@      @@@      @@@@ @@@@@  @  @@@@  @@@@             
-              @@@@@@   @@@  @@@@@@@    @@@@@@   @@@@@@@@</code></pre>
+![Cisco Logo](media/cisco-png-logo-3780.png)
 
 In this portfolio you can see which labs I have done so far, and it can help you understand my potential skill set as well knowledge regarding the CCNA and partially CCNP ENCOR, both of which were covered in my university.
 
