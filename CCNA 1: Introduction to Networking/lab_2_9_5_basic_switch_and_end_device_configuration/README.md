@@ -6,8 +6,7 @@
 * 2 Cisco Catalyst 2960 Switches
 * 2 PCs
 
-### Addressing Table
-
+### Addressing Table:
 | Device | Interface | IP Address   | Subnet Mask   |
 | ------ | --------- | ------------ | ------------- |
 | S1     | VLAN1     | 192.168.1.1  | 255.255.255.0 |

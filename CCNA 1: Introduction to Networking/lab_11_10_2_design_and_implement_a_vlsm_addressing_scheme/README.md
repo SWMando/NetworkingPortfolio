@@ -26,8 +26,7 @@ We are given a network 192.168.33.128/25 to work with
 | BR2 HVAC C2LAN (Future) | 4            | 192.168.33.240 | 255.255.255.248 | 192.168.33.247 | 6            |
 | BR1-BR2 Link            | 2            | 192.168.33.248 | 255.255.255.252 | 192.168.33.251 | 2            |
 
-### Addressing table
-
+### Addressing table:
 | Device | Interface | IP Address     | Subnet Mask     | Default Gateway |
 | ------ | --------- | -------------- | --------------- | --------------- |
 | BR1    | G0/0/0    | 192.168.33.249 | 255.255.255.252 | NA              |
@@ -35,7 +34,7 @@ We are given a network 192.168.33.128/25 to work with
 | BR2    | G0/0/0    | 192.168.33.250 | 255.255.255.252 | NA              |
 |        | G0/0/1    | 192.168.33.193 | 255.255.255.224 | NA              |
 | S1     | VLAN1     | 192.168.33.130 | 255.255.255.192 | 192.168.33.129  |
-| S2     | VLAN1     | 192.168.33.194 | 255.255.255.224 | 192.168.33.193  |
+| S2     | VLAN1     | 192.168.33.194 | 255.255.255.224 | 192.168.33.193  
 
 The goal of this lab is to practice VLSM (*Variable Length Subnet Mask*), applying it to topology and testing the connectivity via the ping. This lab is related to the Chapter 11, so the routing is not covered yet. So the ping between S1 and S2 will not work. However, I know routing and all needed to be done is the following:
 

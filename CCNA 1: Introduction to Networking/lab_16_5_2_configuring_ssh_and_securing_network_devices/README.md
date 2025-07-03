@@ -6,7 +6,7 @@
 - 1 Cisco Catalyst 2960 Switch
 - 1 PC
 
-### Addressing Table
+### Addressing Table:
 | Device | Interface | IP Address   | Subnet Mask   | Default Gateway |
 | ------ | --------- | ------------ | ------------- | --------------- |
 | R1     | G0/0/1    | 192.168.1.1  | 255.255.255.0 | NA              |
