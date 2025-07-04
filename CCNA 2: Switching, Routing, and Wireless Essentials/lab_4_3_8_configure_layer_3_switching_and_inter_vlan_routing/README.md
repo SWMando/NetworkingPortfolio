@@ -41,7 +41,7 @@
 2. Configure Inter-VLAN Routing
 3. Configure IPv6 Inter-VLAN Routing
 
-We were provided only with `.pka` file for this lab and the lab doc file includes neither the topology nor the configurations for the other devices. Additionally, the cloud in the topology is locked and can not be opened to see which devices are included there. So I decided to use imagination and make the lab a little bit more interesting.
+We were provided only with `.pkt` file for this lab and the lab doc file includes neither the topology nor the configurations for the other devices. Additionally, the cloud in the topology is locked and can not be opened to see which devices are included there. So I decided to use imagination and make the lab a little bit more interesting.
 
 ![Cloud Cluster Topology](Pasted%20image%2020250705010429.png)
 
