@@ -47,7 +47,7 @@ We were provided only with `.pkt` file for this lab and the lab doc file include
 
 This is the topology of the `Cloud Cluster`.
 
-### Only available configs from the `.pka` lab file:
+### Only available configs from the `.pkt` lab file:
 
 #### S1 Config:
 ```ios
