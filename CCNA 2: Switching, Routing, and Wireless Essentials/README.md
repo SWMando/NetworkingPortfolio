@@ -4,3 +4,4 @@
 3. [Lab 4.3.8: Configure Layer 3 Switching and Inter-VLAN Routing](lab_4_3_8_configure_layer_3_switching_and_inter_vlan_routing/README.md)
 4. [Lab 4.5.2: Implement Inter-VLAN Routing](lab_4_5_2_implement_inter_vlan_routing/README.md)
 5. [Lab 6.4.2: Implement Etherchannel](lab_6_4_2_implement_etherchannel/README.md)
+6. [Lab 7.4.2: Implement DHCPv4](lab_7_4_2_implement_dhcpv4/README.md)
